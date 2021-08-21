@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Blood-Donor",
+    "slug": "Blood-Donor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bloodDonor.jpg",
+    "splash": {
+      "image": "./assets/bloodDonor.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/bloodDonor.jpg"
+    }
+  }
+}
